@@ -1,7 +1,11 @@
 Hi 👋 My name is Beer Chanadee
 ==============================
 
-I graduated from king mongkut's university of technology north bangkok university. Date of Birth : 28 Apill 2000 Nationality : Thai Age : 23 Interest and Activities : Programming , AI , Electronics
+I graduated from king mongkut's university of technology north bangkok university.
+Date of Birth : 28 Apill 2000 
+Nationality : Thai 
+Age : 23 
+Interest and Activities : Programming , AI , Electronics
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [MyPortfolio](http://abc)
