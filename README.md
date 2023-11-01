@@ -9,5 +9,5 @@ Interest and Activities : Programming , AI , Electronics
 
  * 🌍  I'm based in Thailand
  * 🖥️  See my portfolio at [MyPortfolio](http://abc)
- * ✉️  You can contact me at [chanadeehk4082@gmailc.com](mailto:chanadeehk4082@gmailc.com)
+ * ✉️  You can contact me at [chanadee.hk@gmailc.com](mailto:chanadee.hk@gmailc.com)
 
