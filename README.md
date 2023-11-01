@@ -8,6 +8,6 @@ Age : 23 <br>
 Interest and Activities : Programming , AI , Electronics
 
  * 🌍  I'm based in Thailand
- * 🖥️  See my portfolio at [MyPortfolio]([http://abc](https://portfolio-chanadee.onrender.com/))
+ * 🖥️  See my portfolio at [MyPortfolio]((https://portfolio-chanadee.onrender.com/))
  * ✉️  You can contact me at [chanadee.hk@gmailc.com](mailto:chanadee.hk@gmailc.com)
 
