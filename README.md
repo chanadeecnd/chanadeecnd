@@ -16,5 +16,8 @@ Interest and Activities : Programming , AI , Electronics
 
 <div style="display: flex; flex-direction: column;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=chanadeecnd&show_icons=true&theme=radical" />
+</div>
+
+<div >
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanadeecnd&theme=radical&layout=compact&hide=html,EJS,procfile" />
 </div>
