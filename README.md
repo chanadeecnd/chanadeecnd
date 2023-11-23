@@ -13,8 +13,8 @@ Interest and Activities : Programming , AI , Electronics
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/chanadeecnd"><img src="https://github-readme-stats.vercel.app/api?username=chanadeecnd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chanadeecnd's GitHub stats" /></a>
-<div style="display: flex; flex-direction: row;">
+
+<div style="display: flex; flex-direction: column;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=chanadeecnd&show_icons=true&theme=radical" />
- <img class="img" style="margin: 0 0 0 30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanadeecnd&theme=radical&layout=compact&hide=html,EJS,procfile" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanadeecnd&theme=radical&layout=compact&hide=html,EJS,procfile" />
 </div>
