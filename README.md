@@ -11,3 +11,4 @@ Interest and Activities : Programming , AI , Electronics
  * 🖥️  See my portfolio at [MyPortfolio](https://chanadeecnd.github.io/)
  * ✉️  You can contact me at [chanadee.hk@gmail.com](mailto:chanadee.hk@gmailc.com)
 
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
