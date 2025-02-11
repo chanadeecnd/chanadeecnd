@@ -1,14 +1,5 @@
-Hi 👋 My name is Chandee Hlaoken
+Hi 👋 My name is Beer
 ==============================
-
-I graduated from king mongkut's university of technology north bangkok university.<br>
-Date of Birth : 28 Apill 2000 <br>
-Nationality : Thai <br>
-Age : 23 <br>
-
- - 👨‍💻 All of my projects are available at [https://chanadeecnd.github.io/](https://chanadeecnd.github.io/)
-
-- 📫 How to reach me **chanadee.hk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
